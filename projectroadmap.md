@@ -5,3 +5,6 @@ project:
 1.Modify code to shade an area of my choice (and that I know where it is) other than The Bermuda Trian
 1.DONE Modify expectations accordingly-- I may not be able to do this in the Google Maps website yet
 1.DONE Found existing code base
+
+
+clean up this formatting using Markdown
